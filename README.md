@@ -8,5 +8,6 @@
 - [ ] 序言
 
 ## Contribution 如何贡献
+- Repo: https://github.com/doutv/CUHKSZ-Manual/
 - 在Issue区提出你的意见和建议，如某篇文章内容有失偏颇，希望看到的主题等
 - 熟悉GitHub流程的话可以直接提Pull Request
