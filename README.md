@@ -13,4 +13,4 @@
 ## Contribution 如何贡献
 - 在Issue区提出你的意见和建议，如某篇文章内容有失偏颇，希望看到的主题等
 - 熟悉GitHub流程的话可以直接提Pull Request
-- 也可以邮件联系 119010115@link.cuhk.edu.cn
+- 也可以邮件联系 [119010115@link.cuhk.edu.cn](mailto:119010115@link.cuhk.edu.cn)
