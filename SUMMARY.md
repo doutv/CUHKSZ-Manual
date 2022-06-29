@@ -7,4 +7,5 @@
     - [17级CSE](专业评价/17CSE.md)
     - [19级CSE](专业评价/19CSE.md)
     - [18级应用数学](专业评价/18AppliedMathematics.md)
+    - [19级金融统计](专业评价/19STA-FS.md)
 - 社团活动
