@@ -8,6 +8,7 @@
     - [18级应用数学](专业评价/18AppliedMathematics.md)
     - [19级金融统计](专业评价/19STA-FS.md)
     - [19级FinTech转码](专业评价/19FinTech-CS.md)
+    - [20级DSDBT转码](专业评价/20DSDBT-CS.md)
 - 申研
 - 就业
 - 创业
