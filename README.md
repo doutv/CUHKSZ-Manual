@@ -12,4 +12,3 @@
 - 自由发挥，无需参照现有的文章来写
 - 在 [Issue](https://github.com/doutv/CUHKSZ-Manual/issues) 提出你的意见和建议，如某篇文章内容有失偏颇，希望看到的主题等
 - 熟悉 GitHub 流程的话可以直接提 [Pull Request](https://github.com/doutv/CUHKSZ-Manual/pulls)
-- 也可以邮件联系 [backdoor705@proton.me](mailto:backdoor705@proton.me)
